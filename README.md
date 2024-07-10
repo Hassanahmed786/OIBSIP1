@@ -13,4 +13,8 @@ This is a simple voice assistant application that can perform tasks based on voi
 ## Prerequisites
 
 - Python 3.7 or higher
-
+- please create a virtual environment to isolate the specific instalations and download the required dependencies
+- - import speech_recognition as sr
+- - import pyttsx3
+- - import datetime
+- - import wikipedia
