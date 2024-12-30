@@ -1,5 +1,3 @@
-# OIBSIP1
-
 # Voice Assistant Project
 
 This is a simple voice assistant application that can perform tasks based on voice commands. It responds to greetings, tells the time and date, and searches Wikipedia for information.
